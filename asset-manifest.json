@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/whatsmydinner/static/css/main.8ad369c8.css",
+    "main.js": "/whatsmydinner/static/js/main.5b322c43.js",
+    "index.html": "/whatsmydinner/index.html",
+    "main.8ad369c8.css.map": "/whatsmydinner/static/css/main.8ad369c8.css.map",
+    "main.5b322c43.js.map": "/whatsmydinner/static/js/main.5b322c43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ad369c8.css",
+    "static/js/main.5b322c43.js"
+  ]
+}
